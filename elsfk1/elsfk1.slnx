@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="elsfk1/elsfk1.vcxproj" Id="f10bbea4-d79f-4434-9d97-2ee865f2871f" />
+</Solution>
